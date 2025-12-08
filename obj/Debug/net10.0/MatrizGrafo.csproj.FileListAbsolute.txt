@@ -1,0 +1,14 @@
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\bin\Debug\net10.0\MatrizGrafo.exe
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\bin\Debug\net10.0\MatrizGrafo.deps.json
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\bin\Debug\net10.0\MatrizGrafo.runtimeconfig.json
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\bin\Debug\net10.0\MatrizGrafo.dll
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\bin\Debug\net10.0\MatrizGrafo.pdb
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.AssemblyInfoInputs.cache
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.AssemblyInfo.cs
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.dll
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\refint\MatrizGrafo.dll
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.pdb
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.genruntimeconfig.cache
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\ref\MatrizGrafo.dll
