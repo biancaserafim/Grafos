@@ -12,3 +12,4 @@ C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenc
 C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.pdb
 C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.genruntimeconfig.cache
 C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\ref\MatrizGrafo.dll
+C:\Users\bianc\Downloads\MatrizGrafoAdjacenciaAtividade-main\MatrizGrafoAdjacenciaAtividade-main\obj\Debug\net10.0\MatrizGrafo.sourcelink.json

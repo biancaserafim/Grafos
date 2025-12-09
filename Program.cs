@@ -34,7 +34,8 @@ namespace MatrizGrafo
         static void Main(string[] args)
         {
             Grafo meuGrafo = new Grafo(10);
-            meuGrafo.carregarMatrizDeArquivo("matrizSimetrica.txt");
+           meuGrafo.carregarMatrizDeArquivo("bianca_matriz.txt");
+
 
             int opcao = 0;
             do
